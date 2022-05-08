@@ -18,7 +18,7 @@
 7. [TensorRT中的INT8](7.TensorRT中的INT8\TensorRT中的INT8.md)
 8. [TensorRT中的动态形状](8.TensorRT中的动态形状/TensorRT中的动态形状.md)
 9. [TensorRT中的自定义层](9.TensorRT中的自定义层/TensorRT中的自定义层.md)
-10. [TensorRT中的循环](10.TensorRT中的循环/TensorRT中的循环.md)
+10. [TensorRT中的循环](10_TensorRT中的循环/TensorRT中的循环.md)
 
 
 
